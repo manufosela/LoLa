@@ -1,8 +1,8 @@
 LoLa
 ====
 
-Español:
---------
+Descripción:
+------------
 
 Javascript Loading Layer. Si tienes una aplicación/página web que tarda algunos segundos en cargar y no quieres que mientras tu página carga los usuarios comiencen a interactuar antes de tiempo LoLa.js lo soluciona.
 
@@ -20,8 +20,8 @@ El código es independiente de JQuery o de cualquier otra libreria que utilices.
 
 
 
-English:
---------
+Description:
+------------
 
 Javascript Loading Layer. If you have an application/web page that takes a few seconds loading and you don't want the users begin to interact prematurely until it has loaded LoLa.js solves it.
 
