@@ -8,9 +8,9 @@ Javascript Loading Layer. Si tienes una aplicación/página web que tarda alguno
 
 Simplemente añade:
 
-<script type="text/javascript" src="lola.js"></script>
+&lt;script type="text/javascript" src="lola.js"&gt;&lt;/script&gt;
 
-antes del tag </head>
+antes del tag &lt;/head&gt;
 
 Este código genera una capa gris transparente por encima de todas las demás evitando que puedas interactuar con la página.
 También carga una capa blanca con el texto de "Cargando..." y un gif animado.
@@ -27,9 +27,9 @@ Javascript Loading Layer. If you have an application/web page that takes a few s
 
 Just added:
 
-<script type="text/javascript" src="lola.js"></script>
+&lt;script type="text/javascript" src="lola.js"&gt;&lt;/script&gt;
 
-before tag </head>
+before tag &lt;/head&gt;
 
 This code generates a transparent gray layer above all other and it avoid the users can interact with the application/ web page.
 It also loads another layer with white background and show the text "Loading ..." beside an animated gif.
