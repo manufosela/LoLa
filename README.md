@@ -19,6 +19,8 @@ Cuando tu aplicacion/página web termina de cargar estas capas desaparecen.
 El código es independiente de JQuery o de cualquier otra libreria que utilices.
 
 
+Puedes ver la demo en: http://manufosela.es/LoLa/lola_demo.html
+
 
 Description:
 ------------
@@ -36,3 +38,5 @@ It also loads another layer with white background and show the text "Loading ...
 When your application / web page finishes loading these layers disappear.
 
 The code is independent of JQuery or any other library you use.
+
+You can see the demo at: http://manufosela.es/LoLa/lola_demo.html
