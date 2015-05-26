@@ -1,4 +1,5 @@
-/* by @manufosela - lola.js - Loading Layer - 20131017 - v1.2 */
+/* by @manufosela - lola.js - Loading Layer - 20131017 - v1.2 - works IE8+, FF, Chrome */
+/* MIT License (MIT) Copyright (c) 2015 @manufosela - It is independent of any library or framework */
 (function(){
 var _L = function(a){if(!!~a.indexOf("#")){return document.getElementById( a.substr(1) );}else{var t = document.getElementsByTagName(a);if(t.length==0&&a=="body"){oB=document.createElement("body");document.getElementsByTagName("html")[0].appendChild(oB);t=document.getElementsByTagName(a);};return t[0];};};
 var idLa='lola',lolamsj="Cargando...",w=window.innerWidth||document.documentElement.clientWidth||document.body.clientWidth,h=window.innerHeight||document.documentElement.clientHeight||document.body.clientHeight,wW=w/2-200,hW=h/2-150;
